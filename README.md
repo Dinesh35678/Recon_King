@@ -18,7 +18,7 @@
 
 # Tool Usage::
 ```
-git clone https://github.com/
+git clone https://github.com/Dinesh35678/Recon_King
 
 cd Recon_King
 
