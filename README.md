@@ -36,7 +36,7 @@ bash recon_king.sh
 Recon_King is expecting contributions for improving the script such as Adding more tools and Report Generation.
 
 # Demo :boom:
-![Demo](demo.png)
+![Demo](Demo.png)
 
 
 ------------------------------------------------------------------------------------
